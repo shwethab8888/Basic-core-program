@@ -12,7 +12,8 @@
             //PowerTwo.Power_Two();
             // HarmonicNumber.Harmonic_Number();
             //factorsNumber.factors_Number();
-            QuotientRemainder.Quotient_Remainder();
+           // QuotientRemainder.Quotient_Remainder();
+           SwapTwoNumbers.SwapTwo_Numbers();
         }
 
     }
