@@ -11,7 +11,8 @@
             //LeapYear.Leap_Year();
             //PowerTwo.Power_Two();
             // HarmonicNumber.Harmonic_Number();
-            factorsNumber.factors_Number();
+            //factorsNumber.factors_Number();
+            QuotientRemainder.Quotient_Remainder();
         }
 
     }
