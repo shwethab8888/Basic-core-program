@@ -2,8 +2,6 @@
 {
     public class Program
     {
-        private static object factorsNumber;
-
         public static void Main(string[] args)
         {
             //Console.WriteLine("Welcome to Basic Core Programs");
@@ -14,7 +12,9 @@
             //factorsNumber.factors_Number();
             // QuotientRemainder.Quotient_Remainder();
             //SwapTwoNumbers.SwapTwo_Numbers();
-            EvenOdd.Even_Odd();
+             //EvenOdd.Even_Odd();
+             VowelsConsonants.Vowels_Consonants();
+
         }
 
     }
